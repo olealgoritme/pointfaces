@@ -1,7 +1,7 @@
-#### FFHQ Point Cloud Dataset
-- For use in deep learning on Point Cloud datasets
+#### PointFaces: Point Cloud / BlendShape Dataset
+- For facial analysis / blendshape weight prediction / use in deep learning on point clouds
 - Parts of my master thesis
 
-#### Currently only these FFHQ folders are used:
+#### Currently only this FFHQ folder is used:
 - 68000/
 
